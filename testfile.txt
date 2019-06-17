@@ -1,5 +1,1 @@
-test file
-
-changed file
-
-one more change
+test file - changed
